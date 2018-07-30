@@ -1,0 +1,1 @@
+This is a new Code File with some content in the Feature branch.
